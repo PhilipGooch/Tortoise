@@ -16,6 +16,12 @@ scopes = {
 	"last_search.BDE7F5D3" = "t:sprite "
 	"OpenInspectorPreview.BDE7F5D3" = "0"
 	"currentGroup.BDE7F5D3" = "all"
+	"last_search.CFE67B63" = ""
+	"OpenInspectorPreview.CFE67B63" = "0"
+	"currentGroup.CFE67B63" = "all"
+	"last_search.DFE67B63" = ""
+	"OpenInspectorPreview.DFE67B63" = "0"
+	"currentGroup.DFE67B63" = "all"
 }
 providers = {
 	adb = {

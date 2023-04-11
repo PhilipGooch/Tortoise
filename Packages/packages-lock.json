@@ -27,6 +27,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "tortoisegames.tortoise": {
+      "version": "file:Tortoise",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.imgui": {
       "version": "1.0.0",
       "depth": 2,
